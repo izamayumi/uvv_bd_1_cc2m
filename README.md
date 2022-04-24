@@ -1,5 +1,5 @@
 # uvv_bd_1_cc2m
-Repositório do trabalho da matéria Design e Desenvolvimentode Banco de Dados, na Universidade de Vila Velha - Espírito Santo.
+Repositório do trabalho da matéria Design e Desenvolvimento de Banco de Dados, na Universidade de Vila Velha - Espírito Santo.
 
 # Informações Gerais
 
