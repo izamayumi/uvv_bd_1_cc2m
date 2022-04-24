@@ -9,6 +9,11 @@ Repositório do trabalho da matéria Design e Desenvolvimentode Banco de Dados, 
 
 🍭 **Período:** 1 de 8
 
-🍓 **Professor:** Abrantes Araújo Silva Filho
+🪐 **Professor:** Abrantes Araújo Silva Filho
 
 ✨ **Disciplina:** Design e Desenvolvimento de Banco de Dados
+
+# Subrepositórios:
+1. 🍰 [Problem Set 1](/pset1) 
+2. ⭐️ [Problem Set 2](/pset2)
+3. 🍓 [Problem Set 3](/pset3)
