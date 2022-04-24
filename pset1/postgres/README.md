@@ -14,6 +14,6 @@ Os arquivos quando executados, criam um banco de dados completo, com 1 esquema, 
 
 - [executar.sql](postgres/executar.sql)
 
-- [criando role e database.sql](postgres/criando_role_e_database.sql)
-- [criando_esquema_e_tabelas.sql](postgres/criando_esquema_e_tabelas.sql)
-- [inserindo dados.sql](postgres/inserindo_dados.sql)
+- [criando role e database.sql](criando_role_e_database.sql)
+- [criando_esquema_e_tabelas.sql](criando_esquema_e_tabelas.sql)
+- [inserindo dados.sql](inserindo_dados.sql)
