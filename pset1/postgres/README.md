@@ -12,7 +12,7 @@ Os arquivos quando executados, criam um banco de dados completo, com 1 esquema, 
 
 ## **Ordem de execução dos scripts**
 
-- [executar.sql](postgres/executar.sql)
+- [executar.sql](executar.sql)
 
 - [criando role e database.sql](criando_role_e_database.sql)
 - [criando_esquema_e_tabelas.sql](criando_esquema_e_tabelas.sql)
