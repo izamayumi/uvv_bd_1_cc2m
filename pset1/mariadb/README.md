@@ -13,4 +13,5 @@ Os arquivos quando executados, criam um banco de dados completo, com 1 esquema, 
 
 ## **Ordem de execução dos scripts**
 
-Aqui no MariaDB, fiz um único script. Você conseguirá visualizá-lo no [all.sql](mariadb/all.sql).
+- [mariadb parte 1.sql](mariadb_parte1.sql)
+- [mariadb parte 2.sql](mariadb_parte2.sql)
