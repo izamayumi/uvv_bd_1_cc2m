@@ -1,4 +1,4 @@
-# Problem Set 1
+# 🍰 Problem Set 1
 
 Para a realização deste primeiro problem set, o professor nos orientou com um documento especificando as exigências para a resolução do problema
 
