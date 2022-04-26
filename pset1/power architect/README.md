@@ -19,6 +19,6 @@ projetos com Oracle, SQL Server, MySQL, Derby e HSQLDB.
 ### Correções:
 - local:VARCHAR(30) Porque os endereços dados pelo pset tem tamanho maior que 15 caracteres
 - relacionamento funcionario <-> departamento = 1:N
-- - relacionamento localizações_departamento = N:N
+- relacionamento localizações_departamento = N:N
 - cpf_supervisor pode ser NULL, pois nos dados da coluna cpf_supervisor do pset uma tupla está NULL
 - hora pode ser NULL
