@@ -1,6 +1,6 @@
 # 🍰 Problem Set 1
 
-Para a realização deste primeiro problem set, o professor nos orientou com um documento especificando as exigências para a resolução dos problemas
+Para a realização deste primeiro problem set, o professor nos orientou com um documento com orientações para a resolução dos problemas.
 
 ## O que devemos fazer neste Pset?
 - Desvendar os problemas no modelo lógico do Banco de Dados 
