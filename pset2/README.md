@@ -5,14 +5,14 @@ Para a realização deste problem set, o professor nos orientou com um documento
 - Criar um script SQL com respostas às seguintes questões:
 
 #### QUESTÃO 01: 
-prepare um relatório que mostre a média salarial dos funcionáriosde cada departamento.
+prepare um relatório que mostre a média salarial dos funcionários de cada departamento.
 #### QUESTÃO 02: 
-prepare um relatório que mostre a média salarial dos homens e dasmulheres.
+prepare um relatório que mostre a média salarial dos homens e das mulheres.
 #### QUESTÃO 03: 
 prepare um relatório que liste o nome dos departamentos e, para cada departamento, inclua as seguintes informações de seus funcionários: o nome completo, 
 a data de nascimento, a idade em anos completos e o salário.
 #### QUESTÃO 04: 
-prepare um relatório que mostre o nome completo dos funcioná-rios, a idade em anos completos, o salário atual e o salário com um reajuste que
+prepare um relatório que mostre o nome completo dos funcionários, a idade em anos completos, o salário atual e o salário com um reajuste que
 obedece ao seguinte critério: se o salário atual do funcionário é inferior a 35.000 o
 reajuste deve ser de 20%, e se o salário atual do funcionário for igual ou superior a
 35.000 o reajuste deve ser de 15%.
