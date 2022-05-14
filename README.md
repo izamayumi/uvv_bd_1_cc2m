@@ -1,5 +1,5 @@
 # uvv_bd_1_cc2m
-Repositório do trabalho da matéria Design e Desenvolvimento de Banco de Dados, na Universidade de Vila Velha - Espírito Santo.
+Repositório do trabalho da matéria Design e Desenvolvimento de Banco de Dados do curso de Ciência da Computação, na Universidade de Vila Velha - Espírito Santo.
 
 Este trabalho é uma aplicação prática e teórica do que foi ensinado pelo professor Abrantes em sala de aula e pela leitura do livro Sistema de Banco de Dados, de Elmasri e Navathe, para a criação de um banco de dados usando a linguagem SQL.
 
@@ -17,6 +17,8 @@ Este trabalho é uma aplicação prática e teórica do que foi ensinado pelo pr
 # Informações Gerais
 
 🌈 **Aluna:** Izadora Mayumi Goto Bomfim
+
+🌱 **Curso:** Ciência da Computação
 
 💫 **Turma:** CC2M
 
